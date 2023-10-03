@@ -1,0 +1,3 @@
+print("hello world")
+print("welcome to code with manoj")
+print("let join with us")
